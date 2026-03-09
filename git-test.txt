@@ -1,0 +1,16 @@
+Git Test File
+
+This file is used to practice Git commands.
+
+Steps to test:
+
+1. Modify this file.
+2. Run git status
+3. Run git diff
+4. Commit the changes.
+5. Revert changes if needed.
+
+Test lines:
+Line 1
+Line 2
+Line 3
